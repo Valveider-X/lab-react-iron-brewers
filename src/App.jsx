@@ -6,7 +6,7 @@ import AllBeersPage from "./pages/AllBeersPage";
 import RandomBeerPage from "./pages/RandomBeerPage";
 import AddBeerPage from "./pages/AddBeerPage";
 import BeerDetailsPage from "./pages/BeerDetailsPage";
-
+//https://ih-beers-api2.herokuapp.com/beers
 function App() {
   return (
     <div className="App">
